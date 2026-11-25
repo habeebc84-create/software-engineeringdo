@@ -1,0 +1,11 @@
+Requirement ID,Requirement Description,MoSCoW Category,Justification
+"R1","Search books by title and author","Must-Have","Core user need; feasible with existing DB."
+"R2","Online book reservation system","Must-Have","Essential circulation feature."
+"R3","Monthly reports on borrowed books for administrators","Should-Have","Important for admins but not blocking release."
+"R4","Email notifications for overdue books","Should-Have","Improves returns; can follow initial release."
+"R5","QR code scanning for borrowing and returning books","Could-Have","Nice-to-have hardware integration."
+"R6","User-friendly dashboard for librarians","Must-Have","Needed for daily operations."
+"R7","Allow users to review and rate books","Could-Have","Enhances engagement; not critical."
+"R8","Integrate a chatbot for user assistance","Won't-Have","Out of scope for v1 due to cost."
+"R9","Develop a mobile app version of the system","Could-Have","Future expansion."
+"R10","Provide multi-language support","Could-Have","Valuable but not required for first release."
